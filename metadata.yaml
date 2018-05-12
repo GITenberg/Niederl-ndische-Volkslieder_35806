@@ -1,0 +1,35 @@
+_repo: Niederl-ndische-Volkslieder_35806
+_version: 0.1.0
+contributor:
+  compiler:
+    agent_name: Hoffmann von Fallersleben, August Heinrich
+    aliases:
+    - Von Fallersleben, August Heinrich Hoffmann
+    - Fallersleben, August Heinrich Hoffmann von
+    - Fallersleben, Hoffmann von
+    birthdate: 1798
+    deathdate: 1874
+    gutenberg_agent_id: '37915'
+    url: http://www.gutenberg.org/2009/agents/37915
+    wikipedia: http://en.wikipedia.org/wiki/August_Heinrich_Hoffmann_von_Fallersleben
+covers:
+- cover_type: generated
+  image_path: cover.png
+description: ''
+gutenberg_bookshelf: DE Sachbuch
+gutenberg_issued: '2011-04-08'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '35806'
+  lccn: 04020946
+language:
+- nl
+- de
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcc 'PT'
+- !lcsh 'Folk songs, Dutch -- Netherlands -- Texts'
+title: Niederländische Volkslieder
+url: http://www.gutenberg.org/ebooks/35806
